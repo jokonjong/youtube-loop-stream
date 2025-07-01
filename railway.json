@@ -1,0 +1,7 @@
+{
+  "build": {
+    "env": {
+      "VIDEO_URL": "video.mp4"
+    }
+  }
+}
